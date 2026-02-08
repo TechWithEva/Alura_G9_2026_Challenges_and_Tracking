@@ -8,7 +8,7 @@ To do this, you will analyze data from all four stores in terms of sales volume,
 
 ----
 #### Objectives of this challenge: 
-*** In addition to the overall objective, you will be required to apply learning concepts developed in the Python and Data Fundamentals G9 - ONE course, including: ***
+***In addition to the overall objective, you will be required to apply learning concepts developed in the Python and Data Fundamentals G9 - ONE course, including:***
 * Loading and manipulating raw data (CSV) with the Pandas library.
 * Creating data visualizations with the Matplotlib library.
 * Analyzing metrics such as revenue, reviews, and sales performance.
@@ -25,13 +25,13 @@ To do this, you will analyze data from all four stores in terms of sales volume,
 Welcome to our project! This is a Todo list App made in Python and the Django framework. It allows users to quickly and easily add, delete, and update events and tasks. With this App, users can effortlessly manage their tasks and events, helping them stay organized and on top of their to-do list. We hope you enjoy and we look forward to your contributions!
 
 ## Results of the analysis performed
-|Project|Description|Image|
+|Analysis|Description|Image|
 |:-------:|:----:|:---------:|
-|** Performance analysis by store ** | Analysis includes performance by: 1. Sales per store. 2. Average customer satisfaction per store. 3. Average shipping costs. 4. General summary information: 	+ products	+ categories	+ sales reach	+ employees	+ Atypical conditions||
-|** Sales performance analysis broken down by year and quarter.**|Shopping behavior from 2020 to 2022.||
-|** Performance Analysis by Products and Categories**|* Top 5 most popular products and categories *Top 5 least sold products and categories||
-|** Employee Performance Analysis **|* Top 5 employees according to sales ranking * Top 5 least productive employees||
-|** Report and recommendations **|Summary of analysis and action plan to be taken||
+|**Performance analysis by store** | Analysis includes performance by: 1. Sales per store. 2. Average customer satisfaction per store. 3. Average shipping costs. 4. General summary information: 	+ products	+ categories	+ sales reach	+ employees	+ Atypical conditions|![Rendimiento_Por_Tienda](https://github.com/TechWithEva/AlurasStore_Analysis_Challenge1/blob/main/Images/rendimiento%20por%20tienda.png)|
+|**Sales performance analysis broken down by year and quarter.**|Shopping behavior from 2020 to 2022.|![Rendimiento_por_año_y_Trimestre](https://github.com/TechWithEva/AlurasStore_Analysis_Challenge1/blob/main/Images/rendimiento%20por%20a%C3%B1o.png)|
+|**Performance Analysis by Products and Categories**|* Top 5 most popular products and categories *Top 5 least sold products and categories|![Top5Productos](https://github.com/TechWithEva/AlurasStore_Analysis_Challenge1/blob/main/Images/productos%20mas%20y%20menos%20vendidos.png)|
+|**Employee Performance Analysis**|* Top 5 employees according to sales ranking * Top 5 least productive employees|![Top5Empleados](https://github.com/TechWithEva/AlurasStore_Analysis_Challenge1/blob/main/Images/empleados.png)|
+|**Report and recommendations**|Summary of analysis and action plan to be taken||
 
 
 ## Instructions
